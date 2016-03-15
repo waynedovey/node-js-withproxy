@@ -1,2 +1,2 @@
-HTTP_PROXY=http://squid:80
-HTTPS_PROXY=http://squid:80
+HTTP_PROXY=http://proxy.core.syd.non.c1.macquarie.com:3128
+HTTPS_PROXY=http://proxy.core.syd.non.c1.macquarie.com:80
